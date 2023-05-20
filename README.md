@@ -1,6 +1,6 @@
 # Eclipse Music Menu
 
-Welcome to the Eclipse Music Menu! This app is your one-stop-shop for managing and enjoying your favorite music. This guide provides a quick start guide, an in-depth overview of the application's features, and user interface navigation tips. This runs off one AutoHotkey script. 
+Welcome to the Eclipse Music Menu! This app is your one-stop-shop for managing and enjoying your favorite music on Eclipse RP for GTA 5. This guide provides a quick start guide, an in-depth overview of the application's features, and user interface navigation tips. This runs off one AutoHotkey script. 
 
 ## Overview
 
