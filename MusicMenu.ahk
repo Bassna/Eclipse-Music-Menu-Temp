@@ -3,7 +3,7 @@ SetWorkingDir %A_ScriptDir%       ; Sets the working directory of the script to 
 #SingleInstance Force             ; Ensures that only a single instance of the script is allowed to run at any given time.
 #Persistent                       ; Keeps the script running even after the auto-execute section has finished.
 
- 
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 global Application := "GTA5.exe" ; Change this to the game or application you want to use. GTA5.exe for Eclipse, notepad.exe is good for testing.
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
